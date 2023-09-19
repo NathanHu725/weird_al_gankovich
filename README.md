@@ -1,2 +1,2 @@
-# wierd_al_gankovich
-wierd_al_gan
+# Making Weird Al Sounds
+You want Weird Al noises? We got them for you.
